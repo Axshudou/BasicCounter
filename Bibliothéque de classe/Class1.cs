@@ -8,5 +8,6 @@ namespace Bibliothéque_de_classe
 {
     public class Class1
     {
+
     }
 }
