@@ -9,6 +9,7 @@ namespace TestsUnitaires
         [TestMethod]
         public void TestMethod1()
         {
+
         }
     }
 }
